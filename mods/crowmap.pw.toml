@@ -1,0 +1,13 @@
+name = "Crowmap"
+filename = "crowmap-1.19-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd133da1d8dcc5809172a194a5abcb24899c33da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3844711
+project-id = 301943

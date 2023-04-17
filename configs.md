@@ -35,5 +35,7 @@ inventorysorter/config.json5
 /data/origins/origin_layers/origin.json
 set `replace` to `false`
 
-There is one datapack that needs to be added to the global packs folder 
+There is are datapacks that needs to be added to the global packs folder (same as last time except falling leaves)
+
+You may need to set up Voice Chat again 
 

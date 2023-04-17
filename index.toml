@@ -190,6 +190,11 @@ hash = "538cab799842b6773d39b4a609c6c494f55fee0cd73376375a32d4d39157c24f"
 metafile = true
 
 [[files]]
+file = "mods/crowmap.pw.toml"
+hash = "1a59b5cab4f270cca0e4547775c3393a1c2ca135ae9c057b5262e75565b0562e"
+metafile = true
+
+[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "912b843cfaa46bc40f43818bcf255ea55d44069329ea5e3aca178b6195e0b663"
 metafile = true
@@ -360,6 +365,11 @@ hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
 metafile = true
 
 [[files]]
+file = "mods/ihgm.pw.toml"
+hash = "03ed73d0d9116be104bf1b395d71aba501351cc022ac9d02a26699665453e054"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
@@ -457,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "5e725967672e12c61449b74fbb615e49c5859a2ccec2103d08f9f00712c374d1"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "eeeb92bc0d5e6dc70fd6f754ac1e64db928e26f2e41d0a0ade807fef7a79eb1e"
 metafile = true
 
 [[files]]
@@ -562,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "6297eb342a6b4d95e7231405f8cdbc203b90376e2ff65d71b9308518dee2d9cc"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
