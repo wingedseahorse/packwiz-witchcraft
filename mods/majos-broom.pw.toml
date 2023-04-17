@@ -1,0 +1,13 @@
+name = "Majo's Broom"
+filename = " majobroom-1.2.3-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea94bcff4e7189e1a32ee0751e05e1d6096c4957"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3983501
+project-id = 457113

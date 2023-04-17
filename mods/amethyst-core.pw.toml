@@ -1,0 +1,13 @@
+name = "Amethyst Core"
+filename = "amethyst_core-1.1.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c71b2a60b658ea0cb3b4078e2c29e3e869b20b0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4482713
+project-id = 639888

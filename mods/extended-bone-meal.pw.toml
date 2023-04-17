@@ -1,0 +1,13 @@
+name = "Extended Bone Meal"
+filename = "extendedbonemeal-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d089d7b7eab2421de86eb0910e0d91cf2e3fc16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4327619
+project-id = 367534

@@ -1,0 +1,13 @@
+name = "Realistic Fire Spread"
+filename = "realisticfirespread-1.19-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b289dc628ad9d3a26c2df8c29a6ea9390f47b17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830811
+project-id = 344544

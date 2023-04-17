@@ -1,0 +1,13 @@
+name = "witchCraft"
+author = "Bertha?"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "732130d095ac9e062c8a326491712250b5c7060e64ae489dd6a97646b3068844"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"

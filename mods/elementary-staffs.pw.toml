@@ -1,0 +1,13 @@
+name = "Elementary Staffs"
+filename = "elementary-staffs-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ca08ca08181cbc3a2417e845db431d70898495e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022201
+project-id = 346007
