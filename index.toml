@@ -169,6 +169,34 @@ file = "config/worldedit/worldedit.properties"
 hash = "2f551322e35ebd21f892f95bc1cc9a58d6236943597af2798dc5360a2adbafb9"
 
 [[files]]
+file = "global_packs/required_data/afk display v1.1.3.zip"
+hash = "42917c7f4615a727bd5a1975ba33c29001761d05aeaa9d40353b4b25c163e3e5"
+
+[[files]]
+file = "global_packs/required_data/double shulker shells v1.3.3.zip"
+hash = "a7fb3505c2c0de8b671ad395af91d251f30352e3ca18cfbf54e7317d563c047e"
+
+[[files]]
+file = "global_packs/required_data/larger phantoms v1.2.4.zip"
+hash = "9350c096d94a1b7b0c9d53dbdb75d93cf2cadefdc721e20f37ccd08c841abf25"
+
+[[files]]
+file = "global_packs/required_data/more mob heads v2.11.0.zip"
+hash = "abb8a8e63fba1f4d280b39248253c6c0ad6b70c95ce40f1089eac9189220d883"
+
+[[files]]
+file = "global_packs/required_data/player head drops v1.1.3.zip"
+hash = "0c7db398911eecf0e85af39c9db8d6166ff3ab6eb88f667e261842c947b10123"
+
+[[files]]
+file = "global_packs/required_data/silence mobs v1.1.3.zip"
+hash = "1c3df6fb8752b3ab1e234029333eb127110a255fb01bae7494f03317764bca7e"
+
+[[files]]
+file = "global_packs/required_data/wandering trades v1.6.0.zip"
+hash = "f56b7f5a30854237cb7739ce9a44bb388e6d52515929decd7e4f22ce6ab7eeab"
+
+[[files]]
 file = "mods/accurate-maps.pw.toml"
 hash = "3ea92e4f977b25ffad6ffb8336ddeaabf38a6f72243aebc1b7b621da8fac7263"
 metafile = true
