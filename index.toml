@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configs.md"
-hash = "fc6c2efdb284bb401fe6cace6d2f289dbfeaad03a567488fa0bdcab095fb150f"
-
-[[files]]
 file = "mods/accurate-maps.pw.toml"
 hash = "3ea92e4f977b25ffad6ffb8336ddeaabf38a6f72243aebc1b7b621da8fac7263"
 metafile = true
@@ -385,8 +381,8 @@ hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "50275d876985049a0db5b260412aaad8fc9c8158cd73950b8331302c89ade4a9"
+file = "mods/iris.pw.toml"
+hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
 metafile = true
 
 [[files]]
@@ -611,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
