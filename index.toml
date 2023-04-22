@@ -197,6 +197,10 @@ file = "global_packs/required_data/wandering trades v1.6.0.zip"
 hash = "f56b7f5a30854237cb7739ce9a44bb388e6d52515929decd7e4f22ce6ab7eeab"
 
 [[files]]
+file = "mods/DungeonsArise-1.19.2-2.1.54-fabric.jar"
+hash = "e7b97a682dbd0ac4a9e8ade527ea9f5b1b635d6b73a477815ad114b0b8bf0694"
+
+[[files]]
 file = "mods/Witches of Origins - Fabric 1.19 v2.5.2.jar"
 hash = "6c8441e87829ad35efc2552ceb30a3182ad62ed337da31fc82ad1ad0c7a375cc"
 
@@ -863,11 +867,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "d47839ee6cfda7e3bc11168d11d763ae1f81d8392cf7e4ef4839ef5b0c981984"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise-fabric.pw.toml"
-hash = "0d0eed7a6276bf9faed316a1baba988c4d3bffe1591a8ac1ba7bc49c63957e72"
 metafile = true
 
 [[files]]
