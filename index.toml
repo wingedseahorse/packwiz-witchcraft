@@ -265,11 +265,6 @@ hash = "8033492c1f515164c70ed9ddfe5680ee3e40a1b49030adc5da5b86f462967d04"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "d3ed12035a4ed8383c65ee3d851a1b4289468588ade0b9c3b0462d1f3b7e385f"
-metafile = true
-
-[[files]]
 file = "mods/betternether.pw.toml"
 hash = "a7ca17787c935269fb3e7617790126fb94c51b6a0d8bbbccfee51fcea63eb432"
 metafile = true
@@ -677,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/nightlights.pw.toml"
 hash = "bd39f182fc48a61f9ae6fadbabdad080461f8c8180e05e7a188344ec87dffeda"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "80e6f15ebc852ba4e4b6d14dbc2a9d2b3514aac104840f5c279bd4cb726977aa"
 metafile = true
 
 [[files]]
