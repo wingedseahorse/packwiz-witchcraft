@@ -610,11 +610,6 @@ hash = "42a6bd87bce975b2077fd2ed9a0ed275497328631bdd70db47c4b58f6076736f"
 metafile = true
 
 [[files]]
-file = "mods/lanterns-bow.pw.toml"
-hash = "ab7f2a5e1d08304f45193cf1a03a3814bb346c688abe25bd4e6172e8c7c23ab6"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
