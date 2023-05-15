@@ -215,6 +215,11 @@ hash = "69ff69fc11e380ea960d04b809f724275866e96f4fe7600a64e420357632a725"
 metafile = true
 
 [[files]]
+file = "mods/allaybottle.pw.toml"
+hash = "346399688e4548179180a379e257a1968d46460b32912253312470bbdb2605f5"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "89d65309343be6b58c2b27ea08fbccbdb7bc9032e54a16807965a632cc846b50"
 metafile = true
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+hash = "fdea52d254e5318fe4884301ca865356ade3f685798548aaa23804b25ff01ca1"
 metafile = true
 
 [[files]]
@@ -460,6 +465,11 @@ hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "2828c3295d325981b27aed67fbbc7f158b09a6db010b6281c8e2172264dd9055"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
@@ -481,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -557,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
@@ -780,6 +795,11 @@ hash = "0dba52958fd6a8f9a1118550a12e2a58badca0f5514ef82c7b29c059026a4d5f"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "6297eb342a6b4d95e7231405f8cdbc203b90376e2ff65d71b9308518dee2d9cc"
 metafile = true
@@ -807,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ebf4680c6552751d89d870a6121ac421c0a281fc79a605c85a5054210820f828"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "252a5fb2985bde684048491ba74252f82918e464ebad45e6cc52b3653857ec17"
 metafile = true
 
 [[files]]
@@ -850,6 +875,11 @@ hash = "fa40cbaa91a6197fe5c6ef2d59380b56f668e418d1afe0768a4663c3d6c1ac3c"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
@@ -860,6 +890,11 @@ hash = "c781c968a8c24250cacb96339a8231076b24317c7c61efc144e1391bf3a4f478"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "2a8dfc75429196334dfa45be5be94011e8ac2689b43268f2ea58a10e371eae9a"
+metafile = true
+
+[[files]]
 file = "mods/transparent-armor-fabric.pw.toml"
 hash = "f3b85dc0026e3783c518bdc3d85f41d232b67b08d99bb63afba704eddcf33301"
 metafile = true
@@ -867,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "be34bd5471798bf4920021365567c05bc89b742b0e47d8ba8bd53049a60ee9ef"
 metafile = true
 
 [[files]]
