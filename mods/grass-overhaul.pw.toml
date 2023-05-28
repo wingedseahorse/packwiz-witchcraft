@@ -1,13 +1,13 @@
-name = "Grass Overhaul"
-filename = "Sod-22.10.13-MC1.17x_to_1.19.x.jar"
+name = "Grass Overhaul (Sod)"
+filename = "Grass_Overhaul-Fabric-23.05.28_MC1.17.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "15178688ec12d138892944938e09cd0b09dda659"
+hash = "12fbc49c3e8206746b47f94bacf1c3cdcbbd2be1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4028113
+file-id = 4555586
 project-id = 640973

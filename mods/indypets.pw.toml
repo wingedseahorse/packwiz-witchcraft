@@ -1,13 +1,13 @@
 name = "IndyPets - Independent Pets (Fabric)"
-filename = "indypets-1.1.0-1.19.2.jar"
+filename = "indypets-1.2.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1192dda9aa6d3f82821cfb668e46c132f8a62abd"
+hash = "6893b571697976c69106dd2d7ec3d0c51decd2db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3944411
+file-id = 4526941
 project-id = 320967
